@@ -26,4 +26,4 @@ Python, Pandas, Matplotlib, Seaborn, SciPy, yfinance, Jupyter Notebook
 ## Files
 - `Polskaya_Capstone.ipynb` — full analysis and code
 - `Polskaya_Task3.pdf` — written report
-- `Polskaya_Capstone.pdf` - pdf version of ipynb file
+- `Polskaya_Capstone.pdf` -- pdf version of ipynb file
